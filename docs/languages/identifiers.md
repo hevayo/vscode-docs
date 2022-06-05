@@ -64,6 +64,7 @@ Language | Identifier
 ABAP | `abap`
 Windows Bat | `bat`
 BibTeX | `bibtex`
+Ballerina | `ballerina`
 Clojure | `clojure`
 Coffeescript | `coffeescript`
 C | `c`
